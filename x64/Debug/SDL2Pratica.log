@@ -1,0 +1,5 @@
+﻿  Program.cpp
+C:\Users\XGabriel\source\repos\SDL2Pratica\SDL2Pratica\Program.cpp(66,38): warning C4838: conversion from 'Uint32' to 'int' requires a narrowing conversion
+C:\Users\XGabriel\source\repos\SDL2Pratica\SDL2Pratica\Program.cpp(67,39): warning C4838: conversion from 'Uint32' to 'int' requires a narrowing conversion
+C:\Users\XGabriel\source\repos\SDL2Pratica\SDL2Pratica\Program.cpp(95,23): warning C4101: 'force': unreferenced local variable
+  SDL2Pratica.vcxproj -> C:\Users\XGabriel\source\repos\SDL2Pratica\x64\Debug\SDL2Pratica.exe
